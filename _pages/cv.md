@@ -17,15 +17,17 @@ Education
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Nov 2021 - Jan 2022: Data Engineer (intern)
+  * Uppsala, Sweden
+  * Scaleout AB
+  <!--Duties included: Tagging issues--> 
+  * Supervisor: *Prof. Salman Toor & Prof. Andreas Hellander*
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Jun 2021 - Sept 2022: Data Engineer (intern)
+  * Shanghai, China
+  * Ericsson Co., Ltd 
+  <!--Duties included: Tagging issues-->
+  * Supervisor: *Daniel Chen*
   
 Skills
 ======
