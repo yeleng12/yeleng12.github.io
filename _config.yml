@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Junjie Chu / Home page"
+title                    : "Junjie Chu (Johnny)/ Home page"
 title_separator          : "-"
-name                     : &name "Junjie Chu"
+name                     : &name "Junjie Chu (Johnny)"
 description              : &description "personal description"
 url                      : https://junjie-chu.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
