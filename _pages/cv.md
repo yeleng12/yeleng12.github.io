@@ -28,7 +28,8 @@ redirect_from:
   * Ericsson Co., Ltd 
   <!--Duties included: Tagging issues-->
   * Supervisor: *Daniel Chen*
-  
+
+<!-- 
 *Skills*
 ======
 * Skill 1
@@ -46,13 +47,16 @@ redirect_from:
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
-  
+
+*Service and leadership*
+======
+* Currently signed in to 43 different slack teams
+-->
+
 *Teaching*
 ======
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-*Service and leadership*
-======
-* Currently signed in to 43 different slack teams
+
