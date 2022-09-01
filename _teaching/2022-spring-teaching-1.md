@@ -7,6 +7,7 @@ venue: "Uppsala University, IT Department"
 date: 2022-01-01
 location: "Uppsala, Sweden"
 ---
+This is a description of a teaching experience in 2022 Spring, Uppsala, Sweden.
 
 1DL034 Introduction to Machine Learning
 ======
