@@ -9,13 +9,13 @@ redirect_from:
 
 {% include base_path %}
 
-*Education
+*Education*
 ======
 * B.S. in Shanghai Jiao Tong University, China, 2018
 * M.S. in Uppsala University, Sweden, 2022
 * Ph.D in CISPA, Germany, Will start from Nov 2022
 
-*Work experience
+*Work experience*
 ======
 * Nov 2021 - Jan 2022: Data Engineer (intern)
   * Uppsala, Sweden
@@ -29,30 +29,30 @@ redirect_from:
   <!--Duties included: Tagging issues-->
   * Supervisor: *Daniel Chen*
   
-*Skills
+*Skills*
 ======
 * Skill 1
 * Skill 2
   * Sub-skill 2.1
 
-*Publications
+*Publications*
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-*Talks
+*Talks*
 ======
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
   
-*Teaching
+*Teaching*
 ======
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-*Service and leadership
+*Service and leadership*
 ======
 * Currently signed in to 43 different slack teams
