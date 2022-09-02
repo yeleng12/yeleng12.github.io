@@ -11,21 +11,27 @@ redirect_from:
 
 *Education*
 ======
-* B.S. in Shanghai Jiao Tong University, China, 2018
-* M.S. in Uppsala University, Sweden, 2022
-* Ph.D in CISPA, Germany, Will start from Nov 2022
+* **B.S. at Shanghai Jiao Tong University**
+  * Shanghai, China
+  * Sept 2014 - Jun 2018
+* **M.S. at Uppsala University** 
+  * Uppsala, Sweden
+  * Sept 2020 - Sept 2022
+* **Ph.D at CISPA**
+  * Saarbrücken, Germany
+  * Will start from Nov 2022
 
 *Work experience*
 ======
-* Nov 2021 - Jan 2022: Data Engineer (intern)
+* **Data Engineer (intern) at Scaleout AB**
   * Uppsala, Sweden
-  * Scaleout AB
+  * Nov 2021 - Jan 2022
   <!--Duties included: Tagging issues--> 
   * Supervisor: *Prof. Salman Toor & Prof. Andreas Hellander*
 
-* Jun 2021 - Sept 2022: Data Engineer (intern)
+* **Data Engineer (intern) at Ericsson Co., Ltd**
   * Shanghai, China
-  * Ericsson Co., Ltd 
+  * Jun 2021 - Sept 2021
   <!--Duties included: Tagging issues-->
   * Supervisor: *Daniel Chen*
 
