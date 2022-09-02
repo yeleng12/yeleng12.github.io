@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+Here is the full cv.
+
 *Education*
 ======
 * **B.S. at Shanghai Jiao Tong University**
