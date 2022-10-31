@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Here is the full cv.
+Here is the full CV.
 
 *Education*
 ======
@@ -21,7 +21,7 @@ Here is the full cv.
   * Sept 2020 - Sept 2022
 * **Ph.D at CISPA**
   * Saarbrücken, Germany
-  * Will start from Nov 2022
+  * Nov 2022 - Now
 
 *Work experience*
 ======
