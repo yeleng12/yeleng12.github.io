@@ -1,7 +1,7 @@
 ---
 permalink: /
 title: "About Jony"
-excerpt: "About me"
+excerpt: " "
 author_profile: true
 redirect_from: 
   - /about/
@@ -18,6 +18,9 @@ Currently, I am a first-year Ph.D. student at [CISPA Helmholtz Center for Inform
 # Miscellaneous
 
 ## Hobbies
+### Travel
+* Carried by my girlfriend.
+* Especially ancient ruins.
 ### Electronic games
 * League of Legends
   * The former Master Challenger in the bottom lane, but now Volibear is dead.
@@ -25,9 +28,5 @@ Currently, I am a first-year Ph.D. student at [CISPA Helmholtz Center for Inform
 * DNF 
   * Old guy's game, :D
   * One attack 999999
-### Travel
-* Carried by my girlfriend.
-* Especially ancient ruins.
-
 ## Others
 Let me think...
