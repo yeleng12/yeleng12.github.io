@@ -19,11 +19,11 @@ Currently, I am a first-year Ph.D. student at [CISPA Helmholtz Center for Inform
 
 ### Hobbies
 
-#### <font size=3>Travel</font>
+#### Travel
 * Carried by my girlfriend.
 * Especially ancient ruins.
 
-#### <font size=3>Electronic games</font>
+#### Electronic games
 * League of Legends
   * The former Master Challenger in the bottom lane, but now Volibear is dead.
   * Being carried by the supervisor and senior apprentices XD.
