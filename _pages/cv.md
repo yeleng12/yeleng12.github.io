@@ -13,9 +13,6 @@ Here is the full CV.
 
 *Education*
 ======
-* **B.S. at Shanghai Jiao Tong University**
-  * Shanghai, China
-  * Sept 2014 - Jun 2018
 * **Ph.D at CISPA**
   * Saarbrücken, Germany
   * Nov 2022 - Now
