@@ -16,21 +16,12 @@ Here is the full CV.
 * **B.S. at Shanghai Jiao Tong University**
   * Shanghai, China
   * Sept 2014 - Jun 2018
-* **M.S. at Uppsala University** 
-  * Uppsala, Sweden
-  * Sept 2020 - Sept 2022
 * **Ph.D at CISPA**
   * Saarbrücken, Germany
   * Nov 2022 - Now
 
 *Work experience*
 ======
-* **Data Engineer (intern) at Scaleout AB**
-  * Uppsala, Sweden
-  * Nov 2021 - Jan 2022
-  <!--Duties included: Tagging issues--> 
-  * Supervisor: *Prof. Salman Toor & Prof. Andreas Hellander*
-
 * **Data Engineer (intern) at Ericsson Co., Ltd**
   * Shanghai, China
   * Jun 2021 - Sept 2021
