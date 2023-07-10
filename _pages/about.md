@@ -8,7 +8,8 @@ redirect_from:
   - /about.html
 ---
 ## About Me
-Currently, I am a first-year Ph.D. student at [CISPA Helmholtz Center for Information Security, Germany](https://cispa.de/en), co-supervised by [Prof. Michael Backes](https://cispa.de/en/people/backes) and [Dr. Yang Zhang](https://yangzhangalmo.github.io/). Before that, I obtained my master’s degree at the IT department of [Uppsala University, Sweden](https://www.uu.se/en) (2022) and obtained my bachelor’s degree from the School of Electronic Information and Electrical Engineering of [Shanghai Jiao Tong University, China](https://en.sjtu.edu.cn/) (2018).
+Currently, I am a first-year Ph.D. student at [CISPA Helmholtz Center for Information Security, Germany](https://cispa.de/en), co-supervised by [Prof. Michael Backes](https://cispa.de/en/people/backes) and [Dr. Yang Zhang](https://yangzhangalmo.github.io/). 
+[^_^]: # (Before that, I obtained my master’s degree at the IT department of [Uppsala University, Sweden](https://www.uu.se/en) (2022) and obtained my bachelor’s degree from the School of Electronic Information and Electrical Engineering of [Shanghai Jiao Tong University, China](https://en.sjtu.edu.cn/) (2018).)
 
 ## Research Interests
 * Trustworthy Machine Learning
