@@ -2,7 +2,7 @@
 title: "2022 Spring"
 collection: teaching
 type: "Bachelor & Master level course"
-permalink: /teaching/2022-spring-teaching-1
+permalink: /news/news
 venue: "Uppsala University, IT Department"
 date: 2022-01-01
 location: "Uppsala, Sweden"
