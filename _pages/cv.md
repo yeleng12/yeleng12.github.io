@@ -13,17 +13,14 @@ Here is the full CV.
 
 *Education*
 ======
-* **Ph.D at CISPA**
+* **Preparatory Ph.D at CISPA**
   * Saarbrücken, Germany
-  * Nov 2022 - Now
+  * Aug. 2024 - Now
 
+<!-- 
 *Work experience*
 ======
-* **Data Engineer (intern) at Ericsson Co., Ltd**
-  * Shanghai, China
-  * Jun 2021 - Sept 2021
-  <!--Duties included: Tagging issues-->
-  * Supervisor: *Daniel Chen*
+
 
 <!-- 
 *Skills*
@@ -47,7 +44,7 @@ Here is the full CV.
 *Service and leadership*
 ======
 * Currently signed in to 43 different slack teams
--->
+
 
 *Teaching*
 ======
@@ -55,4 +52,4 @@ Here is the full CV.
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-
+-->
