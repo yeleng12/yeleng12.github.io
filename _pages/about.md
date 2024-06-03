@@ -8,12 +8,11 @@ redirect_from:
   - /about.html
 ---
 ## About Me
-Currently, I am a first-year Ph.D. student at [CISPA Helmholtz Center for Information Security, Germany](https://cispa.de/en), co-supervised by [Prof. Dr. Michael Backes](https://cispa.de/en/people/backes) and [Prof. Dr. Yang Zhang](https://yangzhangalmo.github.io/). 
+Currently, I am a preparatory Ph.D. student at [CISPA Helmholtz Center for Information Security, Germany](https://cispa.de/en), supervised by [Prof. Dr. Yang Zhang](https://yangzhangalmo.github.io/). 
 
 ## Research Interests
-* Trustworthy Machine Learning
-* Distributed Computing
-* The Cross Field of the Above Two, such as Federated Learning
+* Machine Learning Security
+* Social Network Analysis
 
 <!-- ## Miscellaneous
 
