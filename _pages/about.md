@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 ## About Me
-Currently, I am a Ph.D. student at [CISPA Helmholtz Center for Information Security, Germany](https://cispa.de/en), supervised by [Prof. Dr. Yang Zhang](https://yangzhangalmo.github.io/). 
+Currently, I am a Ph.D. student at [CISPA Helmholtz Center for Information Security, Germany](https://cispa.de/en), supervised by [Prof. Dr. Yang Zhang]. 
 
 ## Research Interests
 * Machine Learning Security
