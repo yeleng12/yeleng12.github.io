@@ -16,6 +16,8 @@ Currently, I am a Ph.D. student at [Saarland University, Germany](https://www.un
 
 ## News
 
+[02-2026] 🎉 Our paper “When Understanding Becomes a Risk: Authenticity and Safety Risks in the Emerging Image Generation Paradigm” got accepted in [CVPR’26 (Denver, US)](https://cvpr.thecvf.com/Conferences/2026).
+
 <!-- ## Miscellaneous
 
 ### Hobbies
