@@ -9,10 +9,12 @@ redirect_from:
 ---
 ## About Me
 
-Currently, I am a pre-doctoral student at [Saarland University, Germany](https://www.uni-saarland.de/en/home.html) and [CISPA Helmholtz Center for Information Security, Germany](https://cispa.de/en), supervised by Prof. Dr. Yang Zhang.
+Currently, I am a Ph.D. student at [Saarland University, Germany](https://www.uni-saarland.de/en/home.html) and [CISPA Helmholtz Center for Information Security, Germany](https://cispa.de/en), supervised by [Prof. Dr. Yang Zhang](https://yangzhangalmo.github.io/).
 
 ## Research Interests
 * Social Network Analysis
+
+## News
 
 <!-- ## Miscellaneous
 
