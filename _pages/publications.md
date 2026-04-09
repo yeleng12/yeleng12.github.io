@@ -11,9 +11,6 @@ author_profile: true
 
 {% include base_path %}
 
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
 
 ### <span style="color: #33a8ff;">When Understanding Becomes a Risk: Authenticity and Safety Risks in the Emerging Image Generation Paradigm</span>
 <div style="color: grey; font-size: small;">
