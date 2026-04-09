@@ -14,3 +14,13 @@ author_profile: true
 {% for post in site.publications reversed %}
   {% include archive-single.html %}
 {% endfor %}
+
+### <span style="color: #33a8ff;">When Understanding Becomes a Risk: Authenticity and Safety Risks in the Emerging Image Generation Paradigm</span>
+<div style="color: grey; font-size: small;">
+  Ye Leng<sup>*</sup>, <strong>Junjie Chu</strong><sup>*</sup>, Mingjie Li, Chenhao Lin, Chao Shen, Michael Backes, Yun Shen, Yang Zhang<br>
+  <sup>*</sup> <em>Co-first authors</em><br>
+  Selected as CVPR'26 highlight
+</div>
+
+![CVPR'26](https://img.shields.io/badge/CVPR'26-lightyellow?style=flat)
+![Core A Star](https://img.shields.io/badge/Core_A*-lightgreen?style=flat)
