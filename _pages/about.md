@@ -12,7 +12,7 @@ redirect_from:
 Currently, I am a Ph.D. student at [Saarland University, Germany](https://www.uni-saarland.de/en/home.html) and [CISPA Helmholtz Center for Information Security, Germany](https://cispa.de/en), supervised by [Prof. Dr. Yang Zhang](https://yangzhangalmo.github.io/).
 
 ## Research Interests
-* Social Network Analysis
+* Safety of Generative Models
 
 ## News
 
