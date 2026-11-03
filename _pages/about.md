@@ -16,7 +16,13 @@ Currently, I am a Ph.D. student at [Saarland University, Germany](https://www.un
 
 ## News
 
-[02-2026] 🎉 Our paper “When Understanding Becomes a Risk: Authenticity and Safety Risks in the Emerging Image Generation Paradigm” got accepted in [CVPR’26 (Denver, US)](https://cvpr.thecvf.com/Conferences/2026).
+[08-2026] 🎉 Our paper “JADES: A Universal Framework for Jailbreak Assessment via Decompositional Scoring” was accepted in [EMNLP’26 (Budapest, Hungary)](https://2026.emnlp.org/).
+
+[08-2026] 🎉 Our paper “RW2Unsafe: Towards More Accurate Real-World Unsafe Generation Evaluation for T2I Models” was accepted in [EMNLP’26 Findings (Budapest, Hungary)](https://2026.emnlp.org/).
+
+[08-2026] 🎉 Our paper “Behavior Carries Over: An AI Sandbagging Detection Method Inspired by Honest Inertia” was accepted in [EMNLP’26 Findings (Budapest, Hungary)](https://2026.emnlp.org/).
+
+[02-2026] 🎉 Our paper “When Understanding Becomes a Risk: Authenticity and Safety Risks in the Emerging Image Generation Paradigm” was accepted in [CVPR’26 (Denver, US)](https://cvpr.thecvf.com/Conferences/2026).
 
 <!-- ## Miscellaneous
 
