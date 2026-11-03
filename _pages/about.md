@@ -16,6 +16,8 @@ Currently, I am a Ph.D. student at [Saarland University, Germany](https://www.un
 
 ## News
 
+[09-2026] 🎉 Our paper “Can We Trust LLM Security Research? A Reproducibility Study of Large Language Model Security Papers in Tier-1 Security Conference” was accepted in [IEEE S&P 2027 (Montreal, Canada)](https://sp2027.ieee-security.org/).
+
 [08-2026] 🎉 Our paper “JADES: A Universal Framework for Jailbreak Assessment via Decompositional Scoring” was accepted in [EMNLP’26 (Budapest, Hungary)](https://2026.emnlp.org/).
 
 [08-2026] 🎉 Our paper “RW2Unsafe: Towards More Accurate Real-World Unsafe Generation Evaluation for T2I Models” was accepted in [EMNLP’26 Findings (Budapest, Hungary)](https://2026.emnlp.org/).
