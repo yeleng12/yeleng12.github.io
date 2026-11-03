@@ -22,7 +22,7 @@ author_profile: true
   EMNLP Oral and Award Nomination, 2026
 </div>
 
-![EMNLP'26](https://img.shields.io/badge/EMNLP'26-lightyellow?style=flat)
+![EMNLP'26](https://img.shields.io/badge/EMNLP'26-orange?style=flat)
 ![Core A Star](https://img.shields.io/badge/Core_A*-lightgreen?style=flat)
 
 ### <span style="color: #33a8ff;">RW2Unsafe: Towards More Accurate Real-World Unsafe Generation Evaluation for T2I Models</span>
@@ -36,7 +36,7 @@ author_profile: true
   EMNLP Findings, 2026
 </div>
 
-![EMNLP'26](https://img.shields.io/badge/EMNLP'26-lightyellow?style=flat)
+![EMNLP'26](https://img.shields.io/badge/EMNLP'26-orange?style=flat)
 ![Core A Star](https://img.shields.io/badge/Core_A*-lightgreen?style=flat)
 
 ### <span style="color: #33a8ff;">Behavior Carries Over: An AI Sandbagging Detection Method Inspired by Honest Inertia</span>
@@ -50,7 +50,7 @@ author_profile: true
   EMNLP Findings, 2026
 </div>
 
-![EMNLP'26](https://img.shields.io/badge/EMNLP'26-lightyellow?style=flat)
+![EMNLP'26](https://img.shields.io/badge/EMNLP'26-orange?style=flat)
 ![Core A Star](https://img.shields.io/badge/Core_A*-lightgreen?style=flat)
 
 ### <span style="color: #33a8ff;">When Understanding Becomes a Risk: Authenticity and Safety Risks in the Emerging Image Generation Paradigm</span>
