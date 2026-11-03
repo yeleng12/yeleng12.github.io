@@ -65,7 +65,7 @@ author_profile: true
   Selected as CVPR'26 highlight
 </div>
 
-![CVPR'26](https://img.shields.io/badge/CVPR'26-lightyellow?style=flat)
+![CVPR'26](https://img.shields.io/badge/CVPR'26-B0E0E6?style=flat)
 ![Core A Star](https://img.shields.io/badge/Core_A*-lightgreen?style=flat)
 
 
