@@ -27,7 +27,7 @@ author_profile: true
 
 ### <span style="color: #33a8ff;">RW2Unsafe: Towards More Accurate Real-World Unsafe Generation Evaluation for T2I Models</span>
 <div style="color: grey; font-size: small;">
-  <strong>Ye Leng<strong>, Junjie Chu, Mingjie Li, Michael Backes, Yun Shen, Yang Zhang<br>
+  <strong>Ye Leng</strong>, Junjie Chu, Mingjie Li, Michael Backes, Yun Shen, Yang Zhang<br>
   <div class="publication-links">
   <a href="https://aclanthology.org/2026.findings-emnlp.1359.pdf" class="pub-link" target="_blank">
     <ion-icon name="link-outline"></ion-icon> Paper
@@ -41,7 +41,7 @@ author_profile: true
 
 ### <span style="color: #33a8ff;">Behavior Carries Over: An AI Sandbagging Detection Method Inspired by Honest Inertia</span>
 <div style="color: grey; font-size: small;">
-  Junjie Chu, Mingjie Li, Zeyan Chen, <strong>Ye Leng<strong>, Yisen Wang, Michael Backes, Yang Zhang<br>
+  Junjie Chu, Mingjie Li, Zeyan Chen, <strong>Ye Leng</strong>, Yisen Wang, Michael Backes, Yang Zhang<br>
   <div class="publication-links">
   <a href="https://aclanthology.org/2026.findings-emnlp.2154.pdf" class="pub-link" target="_blank">
     <ion-icon name="link-outline"></ion-icon> Paper
